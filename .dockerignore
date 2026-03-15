@@ -1,0 +1,12 @@
+**/*.pyc
+__pycache__/
+*.pyo
+.env
+.venv
+venv/
+data/
+models/
+.DS_Store
+*.log
+.git
+

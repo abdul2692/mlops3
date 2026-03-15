@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+data/
+models/
+.DS_Store
+*.log
+TODO.md.bak
+
